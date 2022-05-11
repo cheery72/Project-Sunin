@@ -83,7 +83,7 @@
 
     - ##### [DB 결정](/문서/화면설계/readme.md)
 
-    - ##### [ERD](/문서/ERD 설계/readme.md)
+    - ##### [ERD](/문서/ERD설계/readme.md)
 
 ### sub PJT Ⅱ
 
